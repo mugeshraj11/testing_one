@@ -2,7 +2,6 @@ import streamlit as st
 from keras.models import load_model
 from PIL import Image
 import numpy as np
-import cv2
 from util import classify, set_background
 
 
